@@ -1,0 +1,8 @@
+{
+  "name": "Clocking Out",
+  "description": "Manage screen/usage time",
+  "uuid": "clockingout@roklimber.4cmelabs.com",
+  "shell-version": [
+    "47"
+  ]
+}
